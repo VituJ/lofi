@@ -1,0 +1,7 @@
+site_name: Musiquinhas de lofi
+site_author: Jv
+theme:
+  name: material
+  palette:
+    primary: teal
+
